@@ -311,3 +311,10 @@ header {
     display: block;
   }
 }
+.wrapper {
+  position: relative;
+}
+
+.wrapper.style4 {
+    background-color: #181818;
+  }
