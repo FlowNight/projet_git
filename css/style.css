@@ -343,3 +343,17 @@ section {
     justify-content: center;
     min-height: 100vh;
   }
+  .style4 h3 {
+    font-size: 30px;
+    color: #dfdfdf;
+  }
+  
+  .style4 p {
+    font-size: 20px;
+    color: #dfdfdf;
+    padding-bottom: 30px;
+  }
+  
+  .style4 img {
+    margin-left: 425px;
+  }
